@@ -1,0 +1,16 @@
+body{
+ background:#FFFFDD;
+}
+h4{
+ font-size:1.6em;
+ border:inset 10px #99FF99;
+}
+h1:hover{
+ color:red;
+}
+h2::first-letter{
+ color:blue;
+}
+h3{
+ background-color:yellow;
+}
